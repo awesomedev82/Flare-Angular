@@ -42,24 +42,15 @@ Project Flare is a full-fledged Tinder web client made in Angular with extra fea
 - Cloudmersive AI Image detection
 - Tinder Loops feature
 
-#### (Planned features coming soon) 
-- Ability to see if someone superliked you before matching
-
 ## Matches
 - Unmatch feature
 - See last sent message
 - Ability to see if a match is a Superlike/Fast(Tinder Gold)/Boost match
 - Has a match seen your profile? feature
 
-#### (Planned features coming soon)
-- Tinder Gold matches
-
 ## Messages
 - Send messages like in the app (Only last 10 sent messages are visible for now)
 - Ability to see GIFs in chat
-
-#### (Planned features coming soon) 
-- Send GIFs
 
 ## Passport (Must have Tinder Plus/Gold)
 - Change your location to anywhere on the world map
@@ -94,15 +85,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
